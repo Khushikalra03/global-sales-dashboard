@@ -1,0 +1,21 @@
+📊 Global Sales Performance Dashboard
+
+An interactive Excel Dashboard created using Global Superstore data, highlighting key sales and profit trends across different categories, regions, and shipping modes from 2020 to 2025.
+
+ ✨ Features
+- 📌 KPI cards for Total Sales, Profit, and Quantity Sold
+- 📈 Trendline for Annual Profit
+- 🛍️ Top 5 Sub-Categories by Orders
+- 🌍 Regional Sales vs Profit Analysis
+- 🚚 Segment-wise Ship Mode Distribution
+- 📊 Priority-based Order Insights (Donut Chart)
+- 🎯 Interactive Slicers (Category, Year, Order Priority)
+
+ 📁 Files Included
+- Global_Superstore_dashboard_khushi.xlsx – Full Excel workbook with charts, filters, and pivots
+- dashboard_preview.png` – Screenshot of the dashboard
+
+🛠 Tools Used
+- Microsoft Excel
+- Pivot Tables & Pivot Charts
+- Slicers
